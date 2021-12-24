@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.ojai:ojai:1.1-mapr-1703">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ojai/ojai/1.1-mapr-1703/ojai-1.1-mapr-1703.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ojai/ojai/1.1-mapr-1703/ojai-1.1-mapr-1703-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ojai/ojai/1.1-mapr-1703/ojai-1.1-mapr-1703-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
